@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 10, //-  - Your
-  memberCount: 20, //--   - Bot
+  serverCount: 100, //-  - Your
+  memberCount: 120, //--   - Bot
   executedCommand: 256, //--  - Stats
-  availableCommand: 42 , //---   - Here
+  availableCommand: 142, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
