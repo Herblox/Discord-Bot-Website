@@ -54,11 +54,11 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
+  githubLink: "https://github.com/Herblox",
+  twitterLink: "https://twitter.com/2R_KeyBreadd",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
+  discordLink: "https://discord.gg/nM69pHvGzT",
   youtubeLink: "https://www.youtube.com/channel/UCFwB08XQ5nvpNe67MP3nKDQ",
 };
 
