@@ -41,7 +41,7 @@ const config = {
   serverCount: 10, //-  - Your
   memberCount: 20, //--   - Bot
   executedCommand: 256, //--  - Stats
-  availableCommand: 42, //---   - Here
+  availableCommand: 42 , //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
