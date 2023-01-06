@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "PlanetBot",
+  name: "WaveBot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=1059464880643649606&permissions=8&scope=bot",
+    "https://discord.com/api/oauth2/authorize?client_id=1060933839951765554&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
